@@ -2,7 +2,7 @@
 
 Apex Ledger is a sophisticated, visually-driven expense management application designed for accountants and professionals. The platform allows users to effortlessly record expenses by capturing receipt images. The system is designed to streamline expense tracking through intelligent categorization and provides insightful analytics via a stunning, interactive dashboard. Key features include a detailed expense log with filtering and search capabilities, a visual dashboard with charts breaking down spending by category and time, and a streamlined workflow for adding new expenses. The entire application is built on a modern, serverless architecture using Cloudflare Workers, ensuring high performance and scalability.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/danenakvy/Expenses-Noted)
 
 ## ✨ Key Features
 
@@ -95,4 +95,4 @@ This application is designed to be deployed to the Cloudflare network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/danenakvy/Expenses-Noted)
